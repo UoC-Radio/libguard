@@ -4,7 +4,7 @@ We use this tool to ensure the consistency and integrity of our audio library. I
 
 The expected directory layout for the library is:
 
-Top level dir -> Artist -> Album (-> disc)
+Top level dir -> Artist/Producer -> Album/Show (-> disc/season)
 
 If images or text files are present together with audio files they are being moved to sub-dirs, Artwork (for images) and Info (for text files).
 
